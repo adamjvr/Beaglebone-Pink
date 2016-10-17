@@ -4,8 +4,9 @@ The Beaglebone Pink based on the Otavo System OSD335x SiP is a Beaglebone wirele
 Specs:
 - Octavo Systems OSD335x Beaglebone System In Package
 - WL1837MOD Wireless Module 2.4GHZ 5HZ WiFi/Bluetooth LE Zigbee
-- USB Hub
-- USB Micro A Connectors for addons
-- 1x USB A full size
+- 4x Port USB Hub with Micro USB A connectors
 - USB Micro power/FTDI serial
 - Solar MPPT Lithium Battery Charger
+- Battery Monitoring and Safety controller
+- SeeedStudio I2C Grove Port
+- SeeedStudio UART Grove Port
