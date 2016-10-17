@@ -1,8 +1,9 @@
 # Beaglebone-Pink
-The Beaglebone Pink based on the Otavo System OSD335x SiP is a Beaglebone wireless variant that supports odd wireless standards + WiFi/Blueooth
+The Beaglebone Pink based on the Otavo System OSD3358 is a 5G Wirless
+Solar/Battery Powered Beaglebone Wireless variant.
 
 Specs:
-- Octavo Systems OSD335x Beaglebone System In Package
+- Octavo Systems OSD3358 Beaglebone System In Package
 - WL1837MOD Wireless Module 2.4GHZ 5HZ WiFi/Bluetooth LE Zigbee
 - 4x Port USB Hub with Micro USB A connectors
 - USB Micro power/FTDI serial
