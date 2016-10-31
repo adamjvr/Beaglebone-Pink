@@ -29,6 +29,8 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:OSD335x
+LIBS:kicad-library_2
+LIBS:Beaglebone-Pink-Lib
 LIBS:Beaglebone-Pink-cache
 EELAYER 25 0
 EELAYER END
