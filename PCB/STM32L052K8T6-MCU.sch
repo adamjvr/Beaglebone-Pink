@@ -36,40 +36,14 @@ EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 5
+Sheet 1 6
 Title ""
-Date "2016-10-16"
-Rev "0.1a"
-Comp "GhostPCB"
-Comment1 "Engineer Drawn By Adam Vadala-Roth"
-Comment2 "Designed By Adam Vadala-Roth"
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-Text Notes 3100 1100 0    315  ~ 63
-Beaglebone Pink Wireless
-$Sheet
-S 7000 3375 2800 1475
-U 58040242
-F0 "Power" 60
-F1 "Power.sch" 60
-$EndSheet
-$Sheet
-S 1500 1475 1800 1400
-U 5804022F
-F0 "Beaglebone System In Package" 60
-F1 "SiP_OSD3358.sch" 60
-$EndSheet
-$Sheet
-S 7000 1450 2800 1425
-U 580402EF
-F0 "USB Connectivity" 60
-F1 "USB_Hub.sch" 60
-$EndSheet
-$Sheet
-S 1475 3575 2250 2000
-U 5882F261
-F0 "RF Transceiver - ADF7023" 60
-F1 "RF-Transceiver-ADF7023.sch" 60
-$EndSheet
 $EndSCHEMATC

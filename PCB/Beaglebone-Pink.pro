@@ -1,4 +1,4 @@
-update=10/17/2016 3:18:21 AM
+update=1/20/2017 7:07:58 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,3 +61,4 @@ LibName29=valves
 LibName30=C:/Users/adam/Documents/GitHub/OSD335x-KiCad/OSD335x
 LibName31=C:/Users/adam/Desktop/kicad-library-master/library/kicad-library_2
 LibName32=Libraries/Beaglebone-Pink-Lib
+LibName33=C:/Users/adam/Documents/GitHub/footprints/Libraries - KiCAD/HydroPWNics_Lib

@@ -29,14 +29,14 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:OSD335x
-LIBS:kicad-library_2
 LIBS:Beaglebone-Pink-Lib
+LIBS:HydroPWNics_Lib
 LIBS:Beaglebone-Pink-cache
-EELAYER 25 0
+EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 6 6
+Sheet 6 5
 Title "Beagle Systtem In Package OSD3358"
 Date "2016-10-16"
 Rev "0.1a"

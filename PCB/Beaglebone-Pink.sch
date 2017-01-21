@@ -29,14 +29,14 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:OSD335x
-LIBS:kicad-library_2
 LIBS:Beaglebone-Pink-Lib
+LIBS:HydroPWNics_Lib
 LIBS:Beaglebone-Pink-cache
-EELAYER 25 0
+EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 6
+Sheet 1 5
 Title ""
 Date "2016-10-16"
 Rev "0.1a"
@@ -49,33 +49,27 @@ $EndDescr
 Text Notes 3100 1100 0    315  ~ 63
 Beaglebone Pink Wireless
 $Sheet
-S 1400 6800 1900 800 
+S 7000 3375 2800 1475
 U 58040242
 F0 "Power" 60
 F1 "Power.sch" 60
 $EndSheet
 $Sheet
-S 7000 3300 2275 1675
-U 58040262
-F0 "WiFi - WL1837MOD" 60
-F1 "WiFi_Module.sch" 60
+S 1500 1475 1800 1400
+U 5804022F
+F0 "Beaglebone System In Package" 60
+F1 "SiP_OSD3358.sch" 60
 $EndSheet
 $Sheet
-S 7000 1400 2800 1425
+S 7000 1450 2800 1425
 U 580402EF
 F0 "USB Connectivity" 60
 F1 "USB_Hub.sch" 60
 $EndSheet
 $Sheet
-S 7000 5200 1400 1200
-U 58040393
-F0 "Addon Module Connector" 60
-F1 "Addon_Module.sch" 60
-$EndSheet
-$Sheet
-S 1400 1400 1800 1400
-U 5804022F
-F0 "Beaglebone System In Package" 60
-F1 "SiP_OSD3358.sch" 60
+S 1475 3575 2250 2000
+U 5882F261
+F0 "RF Transceiver - ADF7023" 60
+F1 "RF-Transceiver-ADF7023.sch" 60
 $EndSheet
 $EndSCHEMATC
